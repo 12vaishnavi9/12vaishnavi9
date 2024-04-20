@@ -24,5 +24,4 @@ I thrive on continuous learning in development, whether it's through online cour
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [g.55vaishnavi5899@gmail.com](mailto:g.55vaishnavi5899@gmail.com)
-*   🧠  I'm learning AWS, Golang
 *   🤝  I'm open to collaborating on Full Stack Applications
