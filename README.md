@@ -14,14 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi 👋 My name is Vaishnavi Gupta
+Hey, I’m Vaishnavi👋
 ================================
 
-A Full Stack Developer
+Lead Backend Engineer | Web3 | AI Agents
 ----------------------
 
-I thrive on continuous learning in development, whether it's through online courses or hands-on problem-solving. With a background in IT, coding is more than just a skill to me; it's my passion. I find immense joy in unraveling coding puzzles and crafting solutions that truly make an impact. Services Offered: Frontend and backend development Proficient in building backend systems using Node.js, Nest.js, Express.js, Rest API Experienced in working with various databases including SQL, NoSQL, and Prisma Expertise in opting for no-code solutions using a variety of tools and techniques
+I’m a passionate Backend Engineer with a proven track record of building robust, scalable, and secure systems that support real-world products at scale. With experience across fintech, crypto, and consumer platforms, I specialize in solving complex challenges involving performance optimization, distributed architectures, compliance, and fault-tolerant workflows.
+
+Throughout my career, I’ve designed and implemented multi-tenant architectures, event-driven pipelines, and tokenization platforms, enabling seamless user experiences while ensuring high availability, security, and regulatory compliance. Whether it’s onboarding hundreds of clients securely, reducing system failures, or building architectures that scale effortlessly, I enjoy transforming intricate requirements into efficient, reliable solutions.
+
+If you’re building something impactful, solving challenging problems, or exploring new opportunities, let’s connect. I’m always excited to collaborate, learn, and contribute to projects that make a difference.
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [g.55vaishnavi5899@gmail.com](mailto:g.55vaishnavi5899@gmail.com)
-*   🤝  I'm open to collaborate on Full Stack Applications
+*   🤝  I'm open to collaborate on Web3 | Web2 | AI applications
